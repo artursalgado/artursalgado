@@ -20,39 +20,6 @@ Acredito que boa tecnologia nasce da combinação entre visão estratégica e ex
 
 ---
 
-## 💼 Experiência
-
-### CEO — NovusRes
-
-- Definição de estratégia tecnológica  
-- Desenvolvimento e arquitetura de produto  
-- Gestão de equipa e prioridades  
-- Planeamento e execução de projetos  
-
----
-
-## 💻 Competências Técnicas
-
-### Linguagens
-- C++
-- COBOL
-- Java
-- HTML & CSS
-
-### Atualmente a aprofundar
-- C#
-- Unity
-- Arquitetura de Software
-- Estruturação de projetos escaláveis
-
-### Soft Skills
-- Liderança
-- Gestão de tempo e prioridades
-- Comunicação técnica
-- Pensamento estratégico
-
----
-
 ## 🌟 Projetos
 
 ### 🔹 NovusRes  
