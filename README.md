@@ -149,9 +149,14 @@ Em vez de navegar por dashboards ou exportar Excel, o Manager ou Owner simplesme
 
 > 💡 *Para adicionar screenshots: abre o editor do README no GitHub e arrasta as imagens diretamente — o GitHub gera o link automaticamente.*
 
-<!-- ![Dashboard Analytics](url_da_imagem) -->
-<!-- ![Gestão de Reservas](url_da_imagem) -->
-<!-- ![Novus Intelligence em ação](url_da_imagem) -->
+<!-- ![Dashboard ](url_da_imagem) --><img width="1440" height="812" alt="Captura de ecrã 2026-03-22, às 17 10 18" src="https://github.com/user-attachments/assets/55de81aa-aaa4-4c7e-aae0-1bbbeb26a237" />
+
+<!-- ![Novus Intelligence](url_da_imagem) --><img width="1440" height="812" alt="Captura de ecrã 2026-03-22, às 17 20 57" src="https://github.com/user-attachments/assets/1b26ee15-1386-45d0-881d-57b13d259b60" />
+
+<!-- ![CFO HUB](url_da_imagem) --> <img width="1440" height="812" alt="Captura de ecrã 2026-03-22, às 17 11 44" src="https://github.com/user-attachments/assets/8fd4722d-2c58-4095-8082-fef504555b53" />
+```
+As imagens representam uma conta de testes, pelo que qualquer tipo de dados ou valores sao MOCK 
+```
 
 ---
 
