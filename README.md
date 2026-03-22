@@ -2,7 +2,7 @@
 
 # Olá, sou o Artur Salgado 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+Inform%C3%A1tica;Founder+da+NovusCoding;Builder+de+produtos+com+impacto+real;Arquitetura+de+software+%26+SaaS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+Inform%C3%A1tica;Founder+da+NovusCoding;Builder+de+produtos+com+impacto+real;Arquitetura+de+software+%26+SaaS;E+se+pudesses+conversar+com+o+teu+restaurante%3F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,8 +30,8 @@ Acredito que boa tecnologia nasce da combinação entre visão estratégica e ex
 
 ```text
 💡 Interesse principal   →   Arquitetura de software & sistemas escaláveis
-🎮 A aprender agora      →   Unity + C# avançado
-🏗️  A construir           →   SaaS products com impacto real no mercado
+🤖 A construir agora     →   SaaS com IA integrada para o setor da restauração
+🎮 A aprender            →   Unity + C# avançado
 🎓 Formação              →   Lic. Engenharia Informática — IPVC
 ```
 
@@ -47,12 +47,12 @@ Acredito que boa tecnologia nasce da combinação entre visão estratégica e ex
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -83,7 +83,7 @@ Os restaurantes dependem de **5 a 8 ferramentas separadas** para gerir reservas,
 | **Estado & Routing** | Zustand, React Router (com RBAC Gatekeeping) |
 | **UI & Dados** | Dnd-Kit (Drag & Drop), Recharts (Analytics) |
 | **Backend & Auth** | Supabase, PostgreSQL, Row Level Security (RLS) |
-| **Automação** | n8n (Webhooks, marketing automation) |
+| **Automação & IA** | n8n (Webhooks, SQL Tools, AI Orchestration) |
 | **i18n** | React-i18next (preparado para multi-idioma) |
 
 ### ✨ Módulos Principais
@@ -95,6 +95,7 @@ Os restaurantes dependem de **5 a 8 ferramentas separadas** para gerir reservas,
 📈 Analytics & Finanças  →  Dashboards em tempo real com dados de vendas, acessos e performance
 🔐 RBAC Multi-Tier       →  Permissões por role (STAFF / ADMIN) e tier (BASIC / PRIME / CONNECT)
 🧑‍🍳 Gestão de Staff       →  Turnos, equipas e revogação de acessos num painel centralizado
+🤖 Novus Intelligence    →  Assistente Executivo de IA com acesso em tempo real à base de dados
 ```
 
 ### 📸 Screenshots
@@ -104,7 +105,64 @@ Os restaurantes dependem de **5 a 8 ferramentas separadas** para gerir reservas,
 <!-- Descomenta e substitui os links abaixo depois de fazer upload das imagens -->
 <!-- ![Dashboard Analytics](url_da_imagem) -->
 <!-- ![Gestão de Reservas](url_da_imagem) -->
-<!-- ![Ficha de Cliente CRM](url_da_imagem) -->
+<!-- ![Novus Intelligence](url_da_imagem) -->
+
+---
+
+## 🤖 Novus Intelligence — AI Copilot
+
+<div align="center">
+
+> ***"E se pudesses conversar com o teu restaurante?"***
+
+![AI Feature](https://img.shields.io/badge/Feature-Novus_Intelligence-a371f7?style=for-the-badge&logo=openai&logoColor=white)
+![Architecture](https://img.shields.io/badge/Arquitetura-Enterprise_Grade-3fb950?style=for-the-badge)
+![Private](https://img.shields.io/badge/Repo-Privado-f0883e?style=for-the-badge&logo=github)
+
+</div>
+
+O **Novus Intelligence** não é um chatbot genérico — é um **Assistente Executivo e Copiloto de IA** integrado na arquitetura do NovusRES, com acesso em tempo real à base de dados do restaurante via **n8n + Supabase**.
+
+Em vez de navegar por dezenas de tabelas ou exportar Excel, o Manager ou Owner simplesmente **conversa** com o sistema e obtém respostas instantâneas.
+
+### 🔥 Casos de Uso por Eixo
+
+**📋 Operações & Sala (Front-of-House)**
+```
+"Temos mesas livres para 4 pessoas hoje às 20h30 na Esplanada?"
+"Quantos clientes temos no total para o serviço de jantar hoje?"
+```
+
+**👥 CRM & Retenção**
+```
+"Quem são os nossos clientes VIP que não nos visitam há mais de 90 dias?"
+"Temos alguma reserva hoje com a tag de 'No-Show' anterior?"
+```
+
+**💰 Diretor Financeiro Virtual (Virtual CFO)**
+```
+"Qual foi a nossa receita esta semana comparada com a semana passada?"
+"Já atingimos o break-even deste mês?"
+"Quais são as faturas pendentes de pagamento a fornecedores?"
+```
+
+**🧭 Navegação por Comandos**
+```
+"Leva-me para o painel de CRM."
+"Abre-me as configurações de horário."
+```
+
+### 🔒 Arquitetura de Segurança
+
+| Princípio | Implementação |
+|-----------|---------------|
+| **Zero Alucinações** | SQL Tools pré-configuradas no n8n — a IA só responde com dados reais do PostgreSQL |
+| **Multi-Tenant Isolation** | Contexto injetado com `restaurant_id` — nenhum restaurante acede aos dados de outro |
+| **Outputs Formatados** | Respostas em tabelas estruturadas, traduzindo queries complexas em linguagem humana |
+
+### 🎯 Impacto
+
+> O Novus Intelligence transforma o NovusRES de uma simples *"ferramenta de registo"* para um **motor proativo de rentabilidade** — onde qualquer membro da equipa (com os devidos acessos) toma decisões altamente informadas em segundos.
 
 ---
 
@@ -144,9 +202,9 @@ Os restaurantes dependem de **5 a 8 ferramentas separadas** para gerir reservas,
 
 ## 🎯 Foco Atual
 
-- 🍽️ Desenvolvimento e lançamento do **NovusRES** no mercado
+- 🤖 Desenvolvimento do **Novus Intelligence** — AI Copilot integrado no NovusRES
+- 🍽️ Lançamento do **NovusRES** no mercado da restauração
 - 🎮 Aprofundamento de **Unity** e **C#**
-- 🏗️ Boas práticas de **arquitetura de software** e sistemas escaláveis
 - 🤝 Crescimento da **NovusCoding** como empresa de tecnologia
 
 ---
