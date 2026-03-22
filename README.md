@@ -63,7 +63,7 @@ Acredito que boa tecnologia nasce da combinação entre visão estratégica e ex
 <div align="center">
 
 > **🍽️ The Next-Generation Restaurant Operating System**  
-> Plataforma SaaS *all-in-one* que centraliza toda a operação de um restaurante num único ecossistema *premium*.
+> Plataforma SaaS *all-in-one* que centraliza toda a operação de um restaurante num único ecossistema *premium* — com IA nativa integrada.
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-novusres.novuscoding.pt-58a6ff?style=for-the-badge)](https://novusres.novuscoding.pt)
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento_Ativo-3fb950?style=for-the-badge)
@@ -86,7 +86,7 @@ Os restaurantes dependem de **5 a 8 ferramentas separadas** para gerir reservas,
 | **Automação & IA** | n8n (Webhooks, SQL Tools, AI Orchestration) |
 | **i18n** | React-i18next (preparado para multi-idioma) |
 
-### ✨ Módulos Principais
+### ✨ Módulos do Ecossistema
 
 ```
 📅 Gestão de Reservas    →  Motor com deteção de conflitos, controlo de lotação e estado em tempo real
@@ -95,39 +95,24 @@ Os restaurantes dependem de **5 a 8 ferramentas separadas** para gerir reservas,
 📈 Analytics & Finanças  →  Dashboards em tempo real com dados de vendas, acessos e performance
 🔐 RBAC Multi-Tier       →  Permissões por role (STAFF / ADMIN) e tier (BASIC / PRIME / CONNECT)
 🧑‍🍳 Gestão de Staff       →  Turnos, equipas e revogação de acessos num painel centralizado
-🤖 Novus Intelligence    →  Assistente Executivo de IA com acesso em tempo real à base de dados
+🤖 Novus Intelligence    →  Assistente Executivo de IA — conversa com os dados do restaurante em tempo real
 ```
-
-### 📸 Screenshots
-
-> 💡 *Para adicionar screenshots: abre o editor do README no GitHub e arrasta as imagens diretamente — o GitHub gera o link automaticamente.*
-
-<!-- Descomenta e substitui os links abaixo depois de fazer upload das imagens -->
-<!-- ![Dashboard Analytics](url_da_imagem) -->
-<!-- ![Gestão de Reservas](url_da_imagem) -->
-<!-- ![Novus Intelligence](url_da_imagem) -->
 
 ---
 
-## 🤖 Novus Intelligence — AI Copilot
+### 🤖 Novus Intelligence — O Cérebro do NovusRES
 
 <div align="center">
 
 > ***"E se pudesses conversar com o teu restaurante?"***
 
-![AI Feature](https://img.shields.io/badge/Feature-Novus_Intelligence-a371f7?style=for-the-badge&logo=openai&logoColor=white)
-![Architecture](https://img.shields.io/badge/Arquitetura-Enterprise_Grade-3fb950?style=for-the-badge)
-![Private](https://img.shields.io/badge/Repo-Privado-f0883e?style=for-the-badge&logo=github)
-
 </div>
 
-O **Novus Intelligence** não é um chatbot genérico — é um **Assistente Executivo e Copiloto de IA** integrado na arquitetura do NovusRES, com acesso em tempo real à base de dados do restaurante via **n8n + Supabase**.
+A recolha de dados no NovusRES não é o fim da linha — é apenas o início. O **Novus Intelligence** é o módulo de IA nativo do sistema: um Assistente Executivo e Copiloto integrado diretamente na plataforma, com acesso em tempo real à base de dados do restaurante via **n8n + Supabase**.
 
-Em vez de navegar por dezenas de tabelas ou exportar Excel, o Manager ou Owner simplesmente **conversa** com o sistema e obtém respostas instantâneas.
+Em vez de navegar por dashboards ou exportar Excel, o Manager ou Owner simplesmente **conversa** com o sistema:
 
-### 🔥 Casos de Uso por Eixo
-
-**📋 Operações & Sala (Front-of-House)**
+**📋 Operações & Sala**
 ```
 "Temos mesas livres para 4 pessoas hoje às 20h30 na Esplanada?"
 "Quantos clientes temos no total para o serviço de jantar hoje?"
@@ -139,30 +124,34 @@ Em vez de navegar por dezenas de tabelas ou exportar Excel, o Manager ou Owner s
 "Temos alguma reserva hoje com a tag de 'No-Show' anterior?"
 ```
 
-**💰 Diretor Financeiro Virtual (Virtual CFO)**
+**💰 Virtual CFO**
 ```
 "Qual foi a nossa receita esta semana comparada com a semana passada?"
 "Já atingimos o break-even deste mês?"
-"Quais são as faturas pendentes de pagamento a fornecedores?"
 ```
 
 **🧭 Navegação por Comandos**
 ```
-"Leva-me para o painel de CRM."
-"Abre-me as configurações de horário."
+"Leva-me para o painel de CRM."   →   O sistema navega automaticamente.
 ```
 
-### 🔒 Arquitetura de Segurança
+#### 🔒 Arquitetura de Segurança
 
 | Princípio | Implementação |
 |-----------|---------------|
 | **Zero Alucinações** | SQL Tools pré-configuradas no n8n — a IA só responde com dados reais do PostgreSQL |
 | **Multi-Tenant Isolation** | Contexto injetado com `restaurant_id` — nenhum restaurante acede aos dados de outro |
-| **Outputs Formatados** | Respostas em tabelas estruturadas, traduzindo queries complexas em linguagem humana |
+| **Outputs Formatados** | Respostas em tabelas estruturadas, traduzindo queries complexas em linguagem humana clara |
 
-### 🎯 Impacto
+> O Novus Intelligence transforma o NovusRES de uma simples *"ferramenta de registo"* para um **motor proativo de rentabilidade** — onde qualquer membro da equipa toma decisões altamente informadas em segundos.
 
-> O Novus Intelligence transforma o NovusRES de uma simples *"ferramenta de registo"* para um **motor proativo de rentabilidade** — onde qualquer membro da equipa (com os devidos acessos) toma decisões altamente informadas em segundos.
+### 📸 Screenshots
+
+> 💡 *Para adicionar screenshots: abre o editor do README no GitHub e arrasta as imagens diretamente — o GitHub gera o link automaticamente.*
+
+<!-- ![Dashboard Analytics](url_da_imagem) -->
+<!-- ![Gestão de Reservas](url_da_imagem) -->
+<!-- ![Novus Intelligence em ação](url_da_imagem) -->
 
 ---
 
@@ -202,7 +191,7 @@ Em vez de navegar por dezenas de tabelas ou exportar Excel, o Manager ou Owner s
 
 ## 🎯 Foco Atual
 
-- 🤖 Desenvolvimento do **Novus Intelligence** — AI Copilot integrado no NovusRES
+- 🤖 Desenvolvimento do **Novus Intelligence** dentro do NovusRES
 - 🍽️ Lançamento do **NovusRES** no mercado da restauração
 - 🎮 Aprofundamento de **Unity** e **C#**
 - 🤝 Crescimento da **NovusCoding** como empresa de tecnologia
