@@ -147,16 +147,6 @@ Em vez de navegar por dashboards ou exportar Excel, o Manager ou Owner simplesme
 
 ### 📸 Screenshots
 
-
-
-<!-- ![Dashboard ](url_da_imagem) --><img width="1440" height="812" alt="Captura de ecrã 2026-03-22, às 17 10 18" src="https://github.com/user-attachments/assets/55de81aa-aaa4-4c7e-aae0-1bbbeb26a237" />
-
-<!-- ![Novus Intelligence](url_da_imagem) --><img width="1440" height="812" alt="Captura de ecrã 2026-03-22, às 17 20 57" src="https://github.com/user-attachments/assets/1b26ee15-1386-45d0-881d-57b13d259b60" />
-
-```
-As imagens representam uma conta de testes, pelo que qualquer tipo de dados ou valores sao MOCK 
-```
-
 ---
 
 ## 📦 Outros Projetos
