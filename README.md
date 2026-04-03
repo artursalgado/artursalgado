@@ -24,7 +24,7 @@
 ## 🚀 Sobre Mim
 
 Sou programador e empreendedor em formação, baseado em Braga.  
-Enquanto termino a licenciatura em **Engenharia Informática** no IPVC, desenvolvo produtos SaaS reais e lidero uma startup tecnológica — a **NovusCoding**.
+Enquanto termino a licenciatura em **Engenharia Informática** no IPVC, desenvolvo produtos SaaS reais e tento criar uma startup tecnológica — a **NovusCoding**. 
 
 Acredito que boa tecnologia nasce da combinação entre visão estratégica e execução técnica rigorosa.
 
