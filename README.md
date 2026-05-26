@@ -29,6 +29,7 @@ Estudante a terminar a licenciatura no IPVC. Fundei a **NovusCoding** e construo
 🎓  Engenharia Informática — IPVC, Braga
 🚀  A construir   →  NovusRES  (SaaS all-in-one para restauração)
 🏢  Fundador      →  NovusCoding  (agência web) — site em reconstrução
+📱  Em stealth    →  Kore Origin  (app mobile)
 🤖  Hackathon     →  Gemini XPrize  (2026)
 ```
 
@@ -38,7 +39,7 @@ Estudante a terminar a licenciatura no IPVC. Fundei a **NovusCoding** e construo
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,react,postgres,supabase,tailwind,vite,cs,git&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,react,postgres,supabase,tailwind,vite,java,cs,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -49,6 +50,7 @@ Estudante a terminar a licenciatura no IPVC. Fundei a **NovusCoding** e construo
 | | Projeto | Descrição |
 |---|---------|-----------|
 | 🍽️ | **[NovusRES](https://novusres.novuscoding.pt)** | SaaS all-in-one para gestão de restaurantes — reservas, CRM, gift cards, analytics e IA nativa. Stack: React 19 · TypeScript · Supabase · PostgreSQL |
+| 📱 | **Kore Origin** | App mobile. Ainda não é altura. Em breve. |
 | 📄 | **[Contract Analyzer](https://v0-portuguese-contract-analyzer.vercel.app)** | Análise automatizada de contratos em português com IA · [repo](https://github.com/artursalgado/Contract_Analyzer_v1) |
 | 🤖 | **[Gemini XPrize Hackathon](https://github.com/artursalgado/gemini_xprize_hackathon)** | Submissão ao XPrize Gemini hackathon (2026) |
 | 🏢 | **[IT Talent Platform](https://github.com/artursalgado/2026-ei-engsof-bc5)** | IT Talent Management Platform — projeto académico de Engenharia de Software |
