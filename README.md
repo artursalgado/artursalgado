@@ -42,6 +42,8 @@ Estudante a terminar a licenciatura no IPVC. Fundei a **NovusCoding** e construo
 
 [![Skills](https://skillicons.dev/icons?i=ts,react,postgres,supabase,tailwind,vite,java,cs,git&theme=dark)](https://skillicons.dev)
 
+![COBOL](https://img.shields.io/badge/COBOL-002B5C?style=for-the-badge&logoColor=white)
+
 </div>
 
 ---
