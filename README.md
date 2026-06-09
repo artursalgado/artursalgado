@@ -28,7 +28,7 @@ Estudante a terminar a licenciatura no IPVC. Fundei a **NovusCoding** e construo
 ```text
 🎓  Engenharia Informática — IPVC, Braga
 🚀  A construir   →  NovusRES  (SaaS all-in-one para restauração)
-🏢  Fundador      →  NovusCoding  (agência web) — site em reconstrução
+🏢  A construir   →  NovusCoding — site em reconstrução
 🛡️  Cliente       →  Neuris  (CTI — Proteção Civil e Defesa)
 📱  Em stealth    →  Kore Origin  (app mobile)
 🤖  Hackathon     →  Gemini XPrize  (2026)
