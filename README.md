@@ -27,8 +27,8 @@ Estudante a terminar a licenciatura no IPVC. Fundei a **NovusCoding** e construo
 
 ```text
 🎓  Engenharia Informática — IPVC, Braga
-🚀  A construir   →  NovusRES  (SaaS all-in-one para restauração)
-🏢  A construir   →  NovusCoding — site em reconstrução
+🚀  A construir   →  NovusRES IA+  (SaaS all-in-one para restauração) (5 restaurantes ativos)
+🏢  A construir   →  SEGREDO
 🛡️  Cliente       →  Neuris  (CTI — Proteção Civil e Defesa)
 📱  Em stealth    →  Kore Origin  (app mobile)
 🤖  Hackathon     →  Gemini XPrize  (2026)
@@ -53,7 +53,7 @@ Estudante a terminar a licenciatura no IPVC. Fundei a **NovusCoding** e construo
 | | Projeto | Descrição |
 |---|---------|-----------|
 | 🍽️ | **[NovusRES](https://novusres.novuscoding.pt)** | SaaS all-in-one para gestão de restaurantes — reservas, CRM, gift cards, analytics e IA nativa. Stack: React 19 · TypeScript · Supabase · PostgreSQL |
-| 🛡️ | **[Neuris](https://neurisweb.netlify.app)** | CTI de Proteção Civil e Defesa — responsável pelo website institucional e pelo desenvolvimento de todas as plataformas digitais ·  EM CONSTRUÇÃO [((https://neuris-website.vercel.app)]) |
+| 🛡️ | **[Neuris](https://neuris.pt)** | CTI de Proteção Civil e Defesa — responsável pelo website institucional e pelo desenvolvimento de todas as plataformas digitais ·  EM CONSTRUÇÃO [((https://neuris.pt)]) |
 | 📱 | **Kore Origin** | App mobile. Ainda não é altura. Em breve. |
 | 📄 | **[Contract Analyzer](https://v0-portuguese-contract-analyzer.vercel.app)** | Análise automatizada de contratos em português com IA · [repo](https://github.com/artursalgado/Contract_Analyzer_v1) |
 | 🤖 | **[Gemini XPrize Hackathon](https://github.com/artursalgado/gemini_xprize_hackathon)** | Submissão ao XPrize Gemini hackathon (2026) |
