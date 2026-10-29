@@ -64,20 +64,6 @@ Estudante de Engenharia Informática no IPVC e fundador da **[NovusCoding](https
 </tr>
 </table>
 
-### 🧠 Novus HQ
-
-A plataforma privada onde a NovusCoding funciona — feita de raiz, em produção todos os dias:
-
-- **Leads** que chegam do site, com estados, kanban e um ecrã *Hoje* com o que fazer a seguir
-- **Propostas** com versões, enviadas por link secreto, que se aceitam online e viram projeto
-- **Portal do cliente** — atualizações, marcos, aprovações, ficheiros e contrato num só sítio
-- **NovusIntelligence** — assistente de IA no HQ e no Telegram: rascunha propostas, analisa leads e executa ações, sempre com confirmação. Gemini primeiro, Groq como plano B
-- **Equipa** — convites, papéis, tarefas e pedidos de aprovação para as ações críticas
-- **Operação** — backups noturnos, vigia de erros e deploys, avisos e resumo diário às 8 h
-
-`Next.js 16` · `React 19` · `TypeScript` · `PostgreSQL` · `Drizzle` · `Better Auth (passkeys)` · `Vercel`
-
----
 
 ## Projetos
 
